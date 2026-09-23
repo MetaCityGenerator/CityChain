@@ -9,7 +9,7 @@
   <a href="https://overturemaps.org/"><img src="https://img.shields.io/badge/data-Overture%20Maps-7768AE" alt="Data: Overture Maps"></a>
 </p>
 
-# cityChain
+# CityChain
 
 **Street-level POI chain analysis of urban functional structure**
 
