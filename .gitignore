@@ -1,0 +1,21 @@
+# Python
+__pycache__/
+*.py[cod]
+*.egg-info/
+.venv/
+venv/
+env/
+.ipynb_checkpoints/
+
+# Generated results (reproducible via scripts/main_pipeline.py)
+data/output/
+
+# Raw Overture downloads for cities not shipped with the repo
+data/overture_data/
+
+# OS / editor
+.DS_Store
+Thumbs.db
+desktop.ini
+.vscode/
+.idea/

@@ -1,0 +1,28 @@
+cff-version: 1.2.0
+message: "If you use this code, please cite the article below."
+title: "cityChain: street-level POI chain analysis of urban functional structure"
+type: software
+authors:
+  - family-names: Lin
+    given-names: Xuhui
+  - family-names: Yang
+    given-names: Tao
+  - family-names: Law
+    given-names: Stephen
+license: GPL-3.0-or-later
+preferred-citation:
+  type: article
+  title: "From points to patterns: An explorative POI network study on urban functional distribution"
+  authors:
+    - family-names: Lin
+      given-names: Xuhui
+    - family-names: Yang
+      given-names: Tao
+    - family-names: Law
+      given-names: Stephen
+  journal: "Computers, Environment and Urban Systems"
+  volume: 117
+  start: 102246
+  year: 2025
+  doi: "10.1016/j.compenvurbsys.2024.102246"
+  url: "https://www.sciencedirect.com/science/article/pii/S0198971524001753"

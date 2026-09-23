@@ -1,0 +1,28 @@
+# Tested with Python 3.10 and 3.11
+
+# Core data processing
+pandas>=2.0
+numpy>=1.24
+
+# Geospatial processing
+geopandas>=1.0
+shapely>=2.0
+pyarrow>=14.0          # required to read/write GeoParquet
+
+# Network analysis & topic modelling
+networkx>=3.0
+gensim>=4.3
+
+# Statistics & curve fitting
+scipy>=1.10
+scikit-learn>=1.2
+
+# Visualisation & export
+matplotlib>=3.7
+seaborn>=0.12
+openpyxl>=3.0          # pandas.to_excel
+
+# Optional
+# overturemaps          # only needed for scripts/01_download_data.py
+# pyLDAvis>=3.4         # interactive LDA visualisation (lda_vis_*.html)
+# python-louvain        # community count in the network report
