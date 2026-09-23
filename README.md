@@ -1,3 +1,14 @@
+<p align="center">
+  <img src="docs/hero.png" alt="cityChain: from POIs along streets, to street functional chains, to topics and networks" width="100%">
+</p>
+
+<p align="center">
+  <a href="https://doi.org/10.1016/j.compenvurbsys.2024.102246"><img src="https://img.shields.io/badge/paper-CEUS%202025-E4572E" alt="Paper"></a>
+  <img src="https://img.shields.io/badge/python-3.10%2B-2E86AB" alt="Python 3.10+">
+  <a href="LICENSE"><img src="https://img.shields.io/badge/license-GPL--3.0-3BB273" alt="License: GPL-3.0"></a>
+  <a href="https://overturemaps.org/"><img src="https://img.shields.io/badge/data-Overture%20Maps-7768AE" alt="Data: Overture Maps"></a>
+</p>
+
 # cityChain
 
 **Street-level POI chain analysis of urban functional structure**
@@ -52,6 +63,7 @@ Visualisation & cross-city analysis
 │           ├── <city>_place.geoparquet
 │           ├── <city>_segment.geoparquet
 │           └── <city>_segments_clipped.geoparquet
+├── docs/                              # README figures
 ├── scripts/
 │   ├── main_pipeline.py                   # runs steps 3–6 in one go
 │   ├── cities.py                          # study cities + bounding boxes
